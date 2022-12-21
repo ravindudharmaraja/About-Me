@@ -20,12 +20,6 @@
   <br/>Training myself every day and pushing my own limits to discover new ways of creating a great experience for the users.
 </p>
 
-- 💻 Passionate Software Engineer and Open Source contributor
-
-- 📊 All of my projects are available [here](https://github.com/narkhedesam?tab=repositories)
-
-- 💬 Don't hesitate to contact me &nbsp;<a href="mailto:narkhedesam@gmail.com?subject=[GitHub] Contact Sameer Narkhede"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="20px"/></a>
-
 <h1 align="center">Hi 👋, I'm Ravindu Dharmaraja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -41,6 +35,13 @@
 - 📫 How to reach me **rishavchanda0@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+- 💻 Passionate Software Engineer and Open Source contributor
+
+- 📊 All of my projects are available [here](https://github.com/narkhedesam?tab=repositories)
+
+- 💬 Don't hesitate to contact me &nbsp;<a href="mailto:narkhedesam@gmail.com?subject=[GitHub] Contact Sameer Narkhede"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="20px"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
