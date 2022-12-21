@@ -37,7 +37,7 @@
 - 📊 All of my projects are available [here](https://github.com/ravindudharmaraja)
 
 - 💬 Don't hesitate to contact me &nbsp;<a href="mailto:narkhedesam@gmail.com?subject=[GitHub] Contact Sameer Narkhede"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="20px"/></a>
-<br/><br/>
+<br/><br/><br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 <br/><br/>
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +48,7 @@
 
 
 
-<br/><br/><br/>
+<br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
