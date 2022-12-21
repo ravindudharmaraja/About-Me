@@ -26,17 +26,9 @@
 
 - 💬 Don't hesitate to contact me &nbsp;<a href="mailto:narkhedesam@gmail.com?subject=[GitHub] Contact Sameer Narkhede"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="20px"/></a>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=narkhedesam&show_icons=true" alt="narkhedesam" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narkhedesam&hide=html,css" alt="narkhedesam" height="200" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm Ravindu Dharmaraja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
